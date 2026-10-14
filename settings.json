@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "block-sabha.aternos.me",
-    "port": 19417,
+    "ip": "gandistan.aternos.me",
+    "port": 14018,
     "version": "1.20.1",
     "try-creative": false
   },
