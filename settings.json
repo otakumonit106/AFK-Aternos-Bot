@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "GandistanSuchnaVibhag",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Bhai creeper ne mujhe dekha aur phat gya. Itna handsome hu kya.",
+        "Mujhe laga main NPC hoon. Phir tum logon ko dekha.",
+        "Yaad rahe: Server hamara, gaand sabki. Apna samaan, apni zimmedari. Owner khud chor hai."
       ]
     },
     "chat-log": true,
